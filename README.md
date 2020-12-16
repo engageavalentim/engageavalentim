@@ -1,4 +1,8 @@
-### Hi there 👋
+### Developer Full Stack @Engage
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/engageavalentim)](https://github.com/engageavalentim)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-valentim-rodrigues-912560116/)](https://www.linkedin.com/in/andr%C3%A9-valentim-rodrigues-912560116/)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCY5H3qebQJA2_Gjt9aLt4Vw)](https://www.youtube.com/channel/UCY5H3qebQJA2_Gjt9aLt4Vw)
 
 <!--
 **engageavalentim/engageavalentim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
